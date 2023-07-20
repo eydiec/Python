@@ -1,6 +1,6 @@
 """
 File: pick_your_starter_pokemon.py
-Name:
+Name: Eydie Cheng
 --------------------------
 This file shows how to use command line 
 to launch different functions.
