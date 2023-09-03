@@ -11,10 +11,10 @@ Watch my [DEMO VIDEOS]()
   * Python semantics & syntax
 * [My Photoshop]()
   * image processing
-* [Pedestrian Removing Application]()/
-  *image processing
-* [Breakout Game](https://youtube.com/shorts/2o7BfNEaii0?feature=share)/
-  *animation & game designing
+* [Pedestrian Removing Application]()
+  * image processing
+* [Breakout Game](https://youtube.com/shorts/2o7BfNEaii0?feature=share)
+  * animation & game designing
 * [Name Popularity Searching System]()
   * data structure and data visiualization
 * [Boggle Game Solver]()
