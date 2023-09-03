@@ -2,6 +2,8 @@
 Hello there!\
 This respository holds my programming projects done during the python training
 
+Watch my [Demo Video](https://www.youtube.com/playlist?list=PL5O7dg9B_-R7wlhiOv-y0OPa2tmvZ0wpa)
+
 ## Project Source Codes:
 * [Hangman Game](https://github.com/eydiec/Python/blob/main/101%20projects/hangman.py)
   * Python semantics & syntax
