@@ -14,7 +14,7 @@ This respository holds my programming projects done during the python training
 * [Breakout Game: ](https://github.com/eydiec/stanCode101/blob/main/101%20projects/breakoutgraphics.py)[(Video)](https://youtube.com/shorts/2o7BfNEaii0?feature=share)
   * animation & game designing
  
-* [Name Popularity Searching System](https://github.com/eydiec/stanCode101/blob/main/101%20projects/babygraphicsgui.py)
+* [Name Popularity Searching System: ](https://github.com/eydiec/stanCode101/blob/main/101%20projects/babygraphicsgui.py)[(Video)](https://youtu.be/nr9jW5oIkUg)
   * data structure and data visiualization
 * [Sierpinski Triangle](https://github.com/eydiec/stanCode101/blob/main/101%20projects/sierpinski.py)
   * recursive functions
