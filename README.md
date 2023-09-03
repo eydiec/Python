@@ -18,7 +18,7 @@ Watch my [Demo Video](https://www.youtube.com/playlist?list=PL5O7dg9B_-R7wlhiOv-
  
 * [Name Popularity Searching System: ](https://github.com/eydiec/stanCode101/blob/main/101%20projects/babygraphicsgui.py)[(Video)](https://youtu.be/nr9jW5oIkUg)
   * data structure and data visiualization
-* [Sierpinski Triangle](https://github.com/eydiec/stanCode101/blob/main/101%20projects/sierpinski.py)
+* [Sierpinski Triangle: ](https://github.com/eydiec/stanCode101/blob/main/101%20projects/sierpinski.py) [(Video)](https://youtu.be/JpmLnhxVi54)
   * recursive functions
 * [Boggle Game Solver](https://github.com/eydiec/stanCode101/blob/main/101%20projects/anagram.py)
   * recursive functions
