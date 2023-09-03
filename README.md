@@ -11,9 +11,9 @@ This respository holds my programming projects done during the python training
   * image processing
 * [Pedestrian Removing Application](https://github.com/eydiec/Python/blob/main/101%20projects/stanCodoshop.py)
   * image processing
-* [Breakout Game](https://github.com/eydiec/stanCode101/blob/main/101%20projects/breakoutgraphics.py)
+* [Breakout Game](https://github.com/eydiec/stanCode101/blob/main/101%20projects/breakoutgraphics.py)[Video](https://youtube.com/shorts/2o7BfNEaii0?feature=share)
   * animation & game designing
-  * [DEMO VIDEOS](https://youtube.com/shorts/2o7BfNEaii0?feature=share)
+ 
 * [Name Popularity Searching System](https://github.com/eydiec/stanCode101/blob/main/101%20projects/babygraphicsgui.py)
   * data structure and data visiualization
 * [Sierpinski Triangle](https://github.com/eydiec/stanCode101/blob/main/101%20projects/sierpinski.py)
