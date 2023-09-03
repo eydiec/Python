@@ -15,7 +15,7 @@ Watch my [DEMO VIDEOS]()
   * image processing
 * [Breakout Game](https://youtube.com/shorts/2o7BfNEaii0?feature=share)
   * animation & game designing
-* [Name Popularity Searching System]()
+* [Name Popularity Searching System](101 projects/babygraphicsgui.py)
   * data structure and data visiualization
 * [Boggle Game Solver]()
   * recursive functions
