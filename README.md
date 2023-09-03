@@ -3,13 +3,13 @@ Hello there!\
 This respository holds my programming projects done during the python training
 
 ## Project Source Codes:
-* [Hangman Game]()
+* [Hangman Game](https://github.com/eydiec/Python/blob/main/101%20projects/hangman.py)
   * Python semantics & syntax
-* [Weather Master]()
+* [Weather Master](https://github.com/eydiec/Python/blob/main/101%20projects/weather_master.py)
   * Python semantics & syntax
-* [My Photoshop]()
+* [My Photoshop](https://github.com/eydiec/Python/blob/main/101%20projects/best_photoshop_award.py)
   * image processing
-* [Pedestrian Removing Application]()
+* [Pedestrian Removing Application](https://github.com/eydiec/Python/blob/main/101%20projects/stanCodoshop.py)
   * image processing
 * [Breakout Game](https://github.com/eydiec/stanCode101/blob/main/101%20projects/breakoutgraphics.py)
   * animation & game designing
